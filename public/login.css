@@ -1,0 +1,36 @@
+.box{
+    border: 2px solid blue;
+    background-color: rgb(215, 250, 237);
+   
+width: 500px;
+
+height: 500px;
+margin: auto;
+margin-top: 120px;
+
+}
+.inside{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 2px solid blue;
+
+    height: 30%;
+
+}
+.input{
+    margin-top: 20px;
+    margin-left: 70px;
+    padding: 4px;
+    border-radius:50px ;
+    width: 70%;
+    
+}
+h1{
+    margin-left: 150px;
+    color: tomato;
+}
+button{
+    margin-left: 30px;
+    margin-top: 50px;
+}
